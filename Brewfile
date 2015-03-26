@@ -30,3 +30,21 @@ appstore OneDrive
 appstore SmartConverter
 appstore The Unarchiver
 appstore Xcode
+
+# brew-cask packages
+cask install dropbox
+cask install google-chrome
+cask install google-drive
+cask install skype
+cask install virtualbox
+cask install iterm2
+cask install bettertouchtool
+cask install python
+cask install sublime-text
+cask install alfred
+cask alfred link
+
+
+
+
+cleanup
