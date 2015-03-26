@@ -46,5 +46,4 @@ cask alfred link
 
 
 
-cask cleanup
 cleanup
