@@ -1,3 +1,5 @@
+update
+upgrade
 
 # tap repositories and their packages
 
@@ -41,8 +43,12 @@ cask install iterm2
 cask install bettertouchtool
 cask install python
 cask install sublime-text
+cask install virtualbox
+cask install transmission
+cask install burn
+cask install appcleaner
+cask install flux
 cask install alfred
-cask alfred link
 
 
 
