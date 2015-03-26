@@ -21,6 +21,7 @@ install git
 install rmtrash
 install vim
 install zsh-completions
+install tree
 
 # App Store applications
 appstore CCleaner
