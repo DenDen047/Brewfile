@@ -50,6 +50,9 @@ cask install burn
 cask install appcleaner
 cask install flux
 cask install alfred
+cask install processing
+cask install xquartz
+
 
 
 
