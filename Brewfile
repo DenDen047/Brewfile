@@ -22,6 +22,7 @@ install rmtrash
 install vim
 install zsh-completions
 install tree
+install rename
 
 # App Store applications
 appstore CCleaner
