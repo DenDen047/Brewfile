@@ -34,6 +34,7 @@ appstore OneDrive
 appstore SmartConverter
 appstore The Unarchiver
 appstore Xcode
+appstore Janetter
 
 # brew-cask packages
 cask install dropbox
