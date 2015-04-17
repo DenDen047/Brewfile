@@ -6,7 +6,7 @@ upgrade
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
-export HOMEBREW_CASK_OPTS="--appdir=/Applications"
+# export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 
 ## homebrew/dupes
 tap homebrew/dupes
