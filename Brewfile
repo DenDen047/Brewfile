@@ -36,6 +36,7 @@ appstore SmartConverter
 appstore The Unarchiver
 appstore Xcode
 appstore Janetter
+appstore iPhoto
 
 # brew-cask packages
 cask install dropbox
