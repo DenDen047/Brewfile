@@ -25,20 +25,6 @@ install zsh-completions
 install tree
 install rename
 
-# App Store applications
-appstore CCleaner
-appstore ClamXav
-appstore LINE
-appstore Microsoft Remote Desktop
-appstore MPlayerX
-appstore OneDrive
-appstore SmartConverter
-appstore The Unarchiver
-appstore Xcode
-appstore Janetter
-appstore iPhoto
-appstore Free-Video-Converter
-
 # brew-cask packages
 cask install dropbox
 cask install google-chrome
@@ -58,10 +44,22 @@ cask install alfred
 cask install processing
 cask install xquartz
 cask install eagle
+cask install onyx
+#cask install odrive
 
-# cask install odrive
-
-
+# App Store applications
+appstore CCleaner
+appstore ClamXav
+appstore LINE
+appstore Microsoft Remote Desktop
+appstore MPlayerX
+appstore OneDrive
+appstore SmartConverter
+appstore The Unarchiver
+appstore Xcode
+appstore Janetter
+appstore iPhoto
+appstore Free-Video-Converter
 
 
 cleanup
