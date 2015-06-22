@@ -45,6 +45,7 @@ cask install processing
 cask install xquartz
 cask install eagle
 cask install onyx
+cask install ccleaner
 #cask install odrive
 
 # App Store applications
