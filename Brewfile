@@ -24,6 +24,8 @@ install vim
 install zsh-completions
 install tree
 install rename
+install ghostscript
+install imagemagick
 
 # brew-cask packages
 cask install dropbox
@@ -47,6 +49,7 @@ cask install eagle
 cask install onyx
 cask install ccleaner
 #cask install odrive
+cask install mactex
 
 # App Store applications
 appstore CCleaner
