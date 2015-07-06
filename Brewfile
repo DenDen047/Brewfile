@@ -26,6 +26,8 @@ install tree
 install rename
 install ghostscript
 install imagemagick
+install python
+install pyenv-virtualenv
 
 # brew-cask packages
 cask install dropbox
