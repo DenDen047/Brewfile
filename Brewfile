@@ -66,6 +66,7 @@ appstore Xcode
 appstore Janetter
 appstore iPhoto
 appstore Free-Video-Converter
+appstore MacTex
 
 
 cleanup
