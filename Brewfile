@@ -29,6 +29,9 @@ install imagemagick
 install python
 install pyenv-virtualenv    # OSX 10.9,10.10 need blow command. ->   CFLAGS="-I$(xcrun --show-sdk-path)/usr/include" pyenv install -v 2.7.  <- want version
 install wget
+tap homebrew/science
+install Caskroom/cask/java
+install octave
 
 # brew-cask packages
 cask install dropbox
