@@ -56,6 +56,8 @@ cask install onyx
 cask install ccleaner
 #cask install odrive
 cask install mactex
+cask install r
+cask install rstudio
 
 # App Store applications
 appstore CCleaner
