@@ -58,6 +58,7 @@ cask install ccleaner
 cask install mactex
 cask install r
 cask install rstudio
+cask install bathyscaphe
 
 # App Store applications
 appstore CCleaner
