@@ -59,6 +59,8 @@ cask install mactex
 cask install r
 cask install rstudio
 cask install bathyscaphe
+cask install karabiner
+cask install coolterm
 
 # App Store applications
 appstore CCleaner
