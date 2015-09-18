@@ -62,6 +62,8 @@ cask install rstudio
 cask install bathyscaphe
 cask install karabiner
 cask install coolterm
+cask install hoster
+cask install cyberduck
 
 # App Store applications
 appstore CCleaner
