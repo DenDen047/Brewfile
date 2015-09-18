@@ -32,6 +32,7 @@ install wget
 tap homebrew/science
 install Caskroom/cask/java
 install octave
+install nmap
 
 # brew-cask packages
 cask install dropbox
