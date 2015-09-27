@@ -64,6 +64,8 @@ cask install karabiner
 cask install coolterm
 cask install hoster
 cask install cyberduck
+cask install clamxav
+cask install the-unarchiver
 
 # App Store applications
 appstore CCleaner
