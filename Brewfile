@@ -68,14 +68,11 @@ cask install clamxav
 cask install the-unarchiver
 
 # App Store applications
-appstore CCleaner
-appstore ClamXav
 appstore LINE
 appstore Microsoft Remote Desktop
 appstore MPlayerX
 appstore OneDrive
 appstore SmartConverter
-appstore The Unarchiver
 appstore Xcode
 appstore Janetter
 appstore iPhoto
