@@ -66,6 +66,8 @@ cask install hoster
 cask install cyberduck
 cask install clamxav
 cask install the-unarchiver
+cask install torbrowser
+cask install octave
 
 # App Store applications
 appstore LINE
