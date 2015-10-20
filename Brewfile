@@ -19,6 +19,7 @@ install brew-file
 tap homebrew/science
 tap homebrew/versions
 install coreutils
+install gcc
 install findutils
 install git
 install rmtrash
