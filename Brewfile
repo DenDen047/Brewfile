@@ -36,6 +36,7 @@ install Caskroom/cask/java
 install octave
 install nmap
 install opencv
+install boost-python
 
 # brew-cask packages
 cask install dropbox
