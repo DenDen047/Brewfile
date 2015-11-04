@@ -55,6 +55,7 @@ cask install appcleaner
 cask install flux
 cask install alfred
 cask install processing
+cask install aquaterm
 cask install xquartz
 cask install eagle
 cask install onyx
@@ -72,6 +73,8 @@ cask install clamxav
 cask install the-unarchiver
 cask install torbrowser
 cask install octave
+
+install gnuplot --with-aquaterm --with-x11
 
 # App Store applications
 appstore LINE
