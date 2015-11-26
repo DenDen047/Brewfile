@@ -18,6 +18,7 @@ install brew-file
 # Other Homebrew packages
 tap homebrew/science
 tap homebrew/versions
+install nkf
 install coreutils
 install gcc
 install findutils
