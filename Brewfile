@@ -38,6 +38,7 @@ install octave
 install nmap
 install opencv
 install boost-python
+install rbenv
 
 # brew-cask packages
 cask install dropbox
