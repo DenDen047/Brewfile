@@ -59,6 +59,7 @@ cask install alfred
 cask install processing
 cask install aquaterm
 cask install xquartz
+cask install xnviewmp
 cask install eagle
 cask install onyx
 cask install ccleaner
