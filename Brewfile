@@ -76,6 +76,7 @@ cask install clamxav
 cask install the-unarchiver
 cask install torbrowser
 cask install octave
+cask install 0xed
 
 install gnuplot --with-aquaterm --with-x11
 
