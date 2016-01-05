@@ -76,6 +76,7 @@ cask install torbrowser
 cask install octave
 cask install 0xed
 cask install night-owl
+caks install macdown
 
 install gnuplot --with-aquaterm --with-x11
 
