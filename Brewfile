@@ -77,6 +77,8 @@ cask install octave
 cask install 0xed
 cask install night-owl
 caks install macdown
+cask install vagrant
+cask install vagrant-manager
 
 install gnuplot --with-aquaterm --with-x11
 
