@@ -79,6 +79,7 @@ cask install night-owl
 caks install macdown
 cask install vagrant
 cask install vagrant-manager
+caks install evernote
 
 install gnuplot --with-aquaterm --with-x11
 
