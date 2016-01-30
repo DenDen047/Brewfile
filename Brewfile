@@ -80,6 +80,7 @@ caks install macdown
 cask install vagrant
 cask install vagrant-manager
 caks install evernote
+caks install amazon-cloud-drive
 
 install gnuplot --with-aquaterm --with-x11
 
