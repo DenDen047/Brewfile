@@ -37,6 +37,8 @@ install nmap
 install opencv
 install boost-python
 install rbenv
+install docker
+install boot2docker
 
 # brew-cask packages
 cask install dropbox
