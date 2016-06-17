@@ -48,7 +48,6 @@ cask install google-drive
 cask install skype
 cask install virtualbox
 cask install iterm2
-cask install bettertouchtool
 cask install python
 cask install sublime-text
 cask install virtualbox
@@ -64,27 +63,28 @@ cask install xnviewmp
 cask install eagle
 cask install onyx
 cask install ccleaner
-#cask install odrive
+# cask install odrive
 cask install mactex
 cask install r
 cask install rstudio
-cask install bathyscaphe
 cask install karabiner
 cask install coolterm
-cask install hoster
 cask install cyberduck
-cask install clamxav
 cask install the-unarchiver
 cask install torbrowser
-cask install octave
+cask install xoctave
 cask install 0xed
 cask install night-owl
 caks install macdown
 cask install vagrant
 cask install vagrant-manager
 caks install evernote
+<<<<<<< HEAD
 caks install amazon-cloud-drive
 cask install dockertoolbox
+=======
+# caks install amazon-cloud-drive
+>>>>>>> 4525c71163200e46b1ea16806be8035949c7596c
 
 install gnuplot --with-aquaterm --with-x11
 
@@ -102,5 +102,6 @@ appstore MacTex
 
 
 cleanup
+cask cleanup
 
  git@github.com:DenDen047/Brewfile.git
