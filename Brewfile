@@ -39,6 +39,7 @@ install boost-python
 install rbenv
 install docker
 install boot2docker
+install phantomjs
 
 # brew-cask packages
 cask install dropbox
@@ -83,6 +84,7 @@ cask install vagrant
 cask install vagrant-manager
 caks install evernote
 caks install amazon-cloud-drive
+cask install dockertoolbox
 
 install gnuplot --with-aquaterm --with-x11
 
