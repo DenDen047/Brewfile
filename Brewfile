@@ -38,6 +38,7 @@ install opencv
 install boost-python
 install rbenv
 install docker
+install docker-machine
 install boot2docker
 install phantomjs
 
