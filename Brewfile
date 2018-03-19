@@ -38,27 +38,20 @@ install boot2docker
 install phantomjs
 
 # brew-cask packages
-#cask install dropbox
 #cask install google-chrome
 #cask install google-drive
 cask install skype
 #cask install virtualbox
 cask install iterm2
-cask install python
 cask install sublime-text
 cask install transmission
-#cask install burn
 cask install appcleaner
 cask install flux
 cask install processing
 cask install aquaterm
 cask install xnviewmp
-#cask install eagle
 cask install onyx
 cask install ccleaner
-cask install r
-cask install rstudio
-#cask install karabiner
 cask install coolterm
 cask install cyberduck
 cask install the-unarchiver
