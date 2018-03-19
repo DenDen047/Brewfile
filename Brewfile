@@ -6,16 +6,11 @@ tap caskroom/cask
 #install brew-cask
 # export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 
-## homebrew/dupes
-tap homebrew/dupes
-
 ## rcmdnk/file
 tap rcmdnk/file
 install brew-file
 
 # Other Homebrew packages
-tap homebrew/science
-tap homebrew/versions
 install nkf
 install coreutils
 install gcc
@@ -28,8 +23,9 @@ install tree
 install rename
 install ghostscript
 install imagemagick
-install python
-install pyenv-virtualenv    # OSX 10.9,10.10 need blow command. ->   CFLAGS="-I$(xcrun --show-sdk-path)/usr/include" pyenv install -v 2.7.  <- want version
+#install python3
+install pyenv
+install pyenv-virtualenv    # OSX 10.9,10.10 need blow command. ->   CFLAGS="-I$(xcrun --show-sdk-path)/usr/include" pyenv install -v 3.6.4  <- want version
 install wget
 install Caskroom/cask/java
 install nmap
